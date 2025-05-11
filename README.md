@@ -13,17 +13,21 @@ Bu repozitoriyda men [DevChallenges.io](https://www.devchallenges.io/) saytida b
 
 | # | Chellenj nomi | Texnologiyalar | Demo |
 |--|----------------|----------------|------|
-| 1 | `404 Not Found Page` | HTML, CSS | [Demo]() |
-| 2 | `Recipe Page` | HTML, CSS | [Demo]() |
+| 1 | `Simple FAQ` | HTML, CSS | [Demo]() |
+| 2 | `Minimal blog card` | HTML, CSS | [Demo]() |
+| 3 | `Join our newsletter` | HTML, CSS | [Demo]() |
+| 4 | `Simple article card` | HTML, CSS | [Demo]() |
+| 5 | `Testimonal page` | HTML, CSS | [Demo]() |
+| 6 | `Business blog card` | HTML, CSS | [Demo]() |
 | ... | ... | ... | ... |
 
 ## 📌 Foydalanish
 
 ```bash
 # repozitoriyani klonlash
-git clone https://github.com/azyk747/devchallenges-solutions.git
+git clone https://github.com/azyk747/challenge-devchallenges.git
 
 # papkaga o‘tish
-cd devchallenges-solutions
+cd challenge-devchallenges
 
 # har bir loyiha alohida papkada joylashgan
