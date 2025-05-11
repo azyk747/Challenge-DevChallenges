@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="icon"
+      href="resources/favicon.ico"
+      type="image/x-icon"
+      sizes="96x96"
+    />
+
+    <title>Simple FAQ | devChallenges.io</title>
+
+    <!--You are welcome to delete these styles or modify them in your own stylesheet -->
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        height: 100vh;
+        font-family: "Inter", sans-serif;
+        color: #030616;
+      }
+      h1 {
+        font-weight: 600;
+        font-size: 36px;
+        margin-bottom: 15px;
+      }
+      h2 {
+        font-weight: 600;
+        font-size: 24px;
+      }
+      p {
+        font-weight: 400;
+        font-size: 16px;
+      }
+      .container {
+        max-width: 680px;
+        margin: 0 auto;
+      }
+
+      /* Header */
+      header {
+        height: 220px;
+        background: #fff;
+        text-align: center;
+      }
+      header .wrapper {
+        max-width: 680px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 100%;
+      }
+
+      /* Main */
+      main {
+        background: #F8FAFC;
+        padding: 30px 0;
+      }
+      .question {
+        padding: 40px 0;
+        border-bottom: 1px solid #D2D5DA;
+      }
+      .question:last-child {
+        border-bottom: none;
+      }
+      .question p {
+        margin-top: 35px;
+      }
+      .question ol, .question ul {
+        margin-top: 35px;
+        list-style-position: inside;
+      }
+      .question ol li, .question ul li {
+        line-height: 2;
+      }
+      .question a {
+        color: #4E80EE;
+        text-decoration: none;
+      }
+
+      /* Footer */
+      footer {
+        text-align: center;
+        padding: 30px 0;
+      }
+      footer a {
+        color: #4E80EE;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header Start -->
+    <header class="header">
+        <div class="wrapper">
+          <h1 class="title">Frequently Asked Questions</h1>
+          <p class="description">
+            Browse through the most frequently asked questions
+          </p>
+        </div>
+    </header>
+    <!-- Header End -->
+
+    <!-- Main Start -->
+    <main>
+      <div class="container">
+        <div class="question">
+          <h2>How can I track my order?</h2>
+          <p>You can track your order using the following steps</p>
+          <ol>
+            <li>Go to the Order <a href="#">Tracking page</a>.</li>
+            <li>Enter your order number and email address.</li>
+            <li>Click on the Track Order button to view the current status of your shipment.</li>
+          </ol>
+          <p>If you encounter any issues, please visit our <a href="#">Help Center</a>.</p>
+        </div>
+        <div class="question">
+          <h2>What is your return policy?</h2>
+          <p>We offer a 30-day return policy on most items. Here are some key points:</p>
+          <ul>
+            <li><b>Items must be in original condition:</b> Unworn, unused, and unwashed.</li>
+            <li><b>Include original packaging and tags:</b> All items should be returned with their original packaging and tags.</li>
+            <li><b>Proof of purchase:</b> A receipt or proof of purchase is required.</li>
+          </ul>
+          <p>For more detailed information, read our full <a href="#">Return Policy</a>.</p>
+        </div>
+      </div>
+    </main>
+    
+    <footer>
+      Coded by <a href="https://github.com/azyk747">AzykDev</a> | Challenge by
+      <a href="https://www.devchallenges.io?ref=challenge" target="_blank"
+        >devChallenges.io</a
+      >.
+    </footer>
+  </body>
+</html>
