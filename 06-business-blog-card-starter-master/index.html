@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="Business Blog Card | devChallenges.io" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Sora:wght@100..800&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="icon"
+      href="resources/favicon.ico"
+      type="image/x-icon"
+      sizes="96x96"
+    />
+
+    <title>Business Blog Card | devChallenges.io</title>
+
+    <!--You are welcome to delete these styles or modify them in your own stylesheet -->
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Lato", sans-serif;
+        font-size: 16px;
+        background-color: #F2F5F9;
+      }
+
+      .wrapper {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .card {
+        max-width: 420px;
+        background: #fff;
+        border-radius: 15px;
+        overflow: hidden;
+      }
+      .card-img {
+        height: 255px;
+        background-image: url("resources/hero-image-1.jpg");
+        position: relative;
+      }
+      .card-img img {
+        position: absolute;
+        bottom: -30px;
+        
+      }
+      .card-body {
+        padding: 30px;
+      }
+      .card-body h3 {
+        font-size: 24px;
+        line-height: 1.5;
+        color: #111729;
+        margin-bottom: 20px;
+      }
+      .card-body p {
+        font-size: 16px;
+        color: #4A5567;
+        line-height: 1.5;
+      }
+      .card-footer {
+        padding: 30px;
+        border-top: 1px solid #F2F5F9;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        line-height: 1;
+
+      }
+      .card-footer img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: 4px solid #F2F5F9;
+      }
+      .card-footer h4 {
+        font-size: 16px;
+        font-weight: 800;
+        color: #111729;
+        margin-bottom: 5px;
+      }
+      .card-footer p {
+        font-size: 14px;
+        color: #4A5567;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="wrapper">
+      <div class="card">
+        <div class="card-img">
+          <img src="./resources/white-overlay.svg" alt="white-overlay" width="100%">
+        </div>
+        <div class="card-body">
+          <h3>Perfect solution for small business</h3>
+          <p>Small businesses need to generate leads to grow. You can use tools like Ringy.</p>
+        </div>
+        <div class="card-footer">
+          <img src="./resources/avatar-image-business-card-1.png" alt="avatar-image-business-card-1">
+          <div>
+            <h4>Amy Burgess</h4>
+            <p>Customer Manger, Solution Oy</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
