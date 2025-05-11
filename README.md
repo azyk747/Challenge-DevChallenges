@@ -13,12 +13,12 @@ Bu repozitoriyda men [DevChallenges.io](https://www.devchallenges.io/) saytida b
 
 | # | Chellenj nomi | Texnologiyalar | Demo |
 |--|----------------|----------------|------|
-| 1 | `Simple FAQ` | HTML, CSS | [Demo]() |
-| 2 | `Minimal blog card` | HTML, CSS | [Demo]() |
-| 3 | `Join our newsletter` | HTML, CSS | [Demo]() |
-| 4 | `Simple article card` | HTML, CSS | [Demo]() |
-| 5 | `Testimonal page` | HTML, CSS | [Demo]() |
-| 6 | `Business blog card` | HTML, CSS | [Demo]() |
+| 1 | `Simple FAQ` | HTML, CSS | [Demo](https://azyk747.github.io/challenge-devchallenges/01-simple-faq/) |
+| 2 | `Minimal blog card` | HTML, CSS | [Demo](https://azyk747.github.io/challenge-devchallenges/02-minimal-blog-card/) |
+| 3 | `Join our newsletter` | HTML, CSS | [Demo](https://azyk747.github.io/challenge-devchallenges/03-join-our-newsletter/) |
+| 4 | `Simple article card` | HTML, CSS | [Demo](https://azyk747.github.io/challenge-devchallenges/04-simple-article-listing/) |
+| 5 | `Testimonal page` | HTML, CSS | [Demo](https://azyk747.github.io/challenge-devchallenges/05-testimonial-page/) |
+| 6 | `Business blog card` | HTML, CSS | [Demo](https://azyk747.github.io/challenge-devchallenges/06-business-blog-card/) |
 | ... | ... | ... | ... |
 
 ## 📌 Foydalanish
