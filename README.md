@@ -11,14 +11,14 @@ Bu repozitoriyda men [DevChallenges.io](https://www.devchallenges.io/) saytida b
 
 ## 📁 Loyihalar ro‘yxati
 
-| # | Chellenj nomi | Texnologiyalar | Demo |
-|--|----------------|----------------|------|
-| 1 | `Simple FAQ` | <code>html</code> <code>css</code> | [Demo](https://azyk747.github.io/challenge-devchallenges/01-simple-faq/) |
-| 2 | `Minimal blog card` | <code>html</code>, <code>css</code> | [Demo](https://azyk747.github.io/challenge-devchallenges/02-minimal-blog-card/) |
-| 3 | `Join our newsletter` | <code>html</code>, <code>css</code> | [Demo](https://azyk747.github.io/challenge-devchallenges/03-join-our-newsletter/) |
-| 4 | `Simple article card` | <code>html</code>, <code>css</code> | [Demo](https://azyk747.github.io/challenge-devchallenges/04-simple-article-listing/) |
-| 5 | `Testimonal page` | <code>html</code>, <code>css</code> | [Demo](https://azyk747.github.io/challenge-devchallenges/05-testimonial-page/) |
-| 6 | `Business blog card` | <code>html</code>, <code>css</code> | [Demo](https://azyk747.github.io/challenge-devchallenges/06-business-blog-card/) |
+| # | Chellenj nomi           | Texnologiyalar | Level      | Demo |
+|---|-------------------------|----------------|------------|------|
+| 1 | `Simple FAQ`            | `html` `css`   | `beginner` | [Demo](https://azyk747.github.io/challenge-devchallenges/01-simple-faq/) |
+| 2 | `Minimal blog card`     | `html` `css`   | `beginner` | [Demo](https://azyk747.github.io/challenge-devchallenges/02-minimal-blog-card/) |
+| 3 | `Join our newsletter`   | `html` `css`   | `beginner` | [Demo](https://azyk747.github.io/challenge-devchallenges/03-join-our-newsletter/) |
+| 4 | `Simple article card`   | `html` `css`   | `beginner` | [Demo](https://azyk747.github.io/challenge-devchallenges/04-simple-article-listing/) |
+| 5 | `Testimonal page`       | `html` `css`   | `beginner` | [Demo](https://azyk747.github.io/challenge-devchallenges/05-testimonial-page/) |
+| 6 | `Business blog card`    | `html` `css`   | `beginner` | [Demo](https://azyk747.github.io/challenge-devchallenges/06-business-blog-card/) |
 | ... | ... | ... | ... |
 
 ## 📌 Foydalanish
