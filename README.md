@@ -13,7 +13,7 @@ Bu repozitoriyda men [DevChallenges.io](https://www.devchallenges.io/) saytida b
 
 | # | Chellenj nomi | Texnologiyalar | Demo |
 |--|----------------|----------------|------|
-| 1 | `Simple FAQ` | html, css | [Demo](https://azyk747.github.io/challenge-devchallenges/01-simple-faq/) |
+| 1 | `Simple FAQ` | ![HTML](https://img.shields.io/badge/HTML-5-orange), ![CSS](https://img.shields.io/badge/CSS-3-blue) | [Demo](https://azyk747.github.io/challenge-devchallenges/01-simple-faq/) |
 | 2 | `Minimal blog card` | html, css | [Demo](https://azyk747.github.io/challenge-devchallenges/02-minimal-blog-card/) |
 | 3 | `Join our newsletter` | html, css | [Demo](https://azyk747.github.io/challenge-devchallenges/03-join-our-newsletter/) |
 | 4 | `Simple article card` | html, css | [Demo](https://azyk747.github.io/challenge-devchallenges/04-simple-article-listing/) |
